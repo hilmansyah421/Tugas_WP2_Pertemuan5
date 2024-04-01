@@ -48,7 +48,7 @@ if (isset($_POST['action'])) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Perpustakaan</title>
+    <title>Perpustakaan by Hilmansyah || NPM : 20552011267</title>
 </head>
 <body>
     <h1>Perpustakaan</h1>
