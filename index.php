@@ -51,7 +51,7 @@ if (isset($_POST['action'])) {
     <title>Perpustakaan by Hilmansyah || NPM : 20552011267</title>
 </head>
 <body>
-    <h1>Perpustakaan</h1>
+    <h1>Perpustakaan by Hilmansyah || NPM : 20552011267</h1>
     <h2>Daftar Buku Tersedia</h2>
     <ul>
         <?php
